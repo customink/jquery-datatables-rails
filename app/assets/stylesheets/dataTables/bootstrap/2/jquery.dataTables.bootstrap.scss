@@ -59,7 +59,6 @@ table.table thead .sorting_desc,
 table.table thead .sorting_asc_disabled,
 table.table thead .sorting_desc_disabled {
 	cursor: pointer;
-	*cursor: hand;
 }
 
 table.dataTable thead .sorting { background: image_url('dataTables/sort_both.png') no-repeat center right; }
@@ -130,7 +129,6 @@ div.dataTables_scrollFoot table {
 
 table.DTTT_selectable tbody tr {
 	cursor: pointer;
-	*cursor: hand;
 }
 
 div.DTTT .btn {
